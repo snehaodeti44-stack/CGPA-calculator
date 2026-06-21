@@ -1,0 +1,12 @@
+Enter number of subjects: 3
+
+Enter credits for Subject 1: 4
+Enter grade for Subject 1: O
+
+Enter credits for Subject 2: 3
+Enter grade for Subject 2: A+
+
+Enter credits for Subject 3: 3
+Enter grade for Subject 3: A
+
+CGPA = 9.1
