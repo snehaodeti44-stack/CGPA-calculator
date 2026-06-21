@@ -92,3 +92,5 @@ Add your output screenshot here:
 ✅ Conclusion
 
 The CGPA Calculator is a simple and useful Python project that demonstrates fundamental programming concepts such as loops, functions, dictionaries, and user input handling. It provides an efficient way to calculate CGPA and track academic performance.
+👩‍💻 Author
+Sneha Odeti
